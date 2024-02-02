@@ -43,7 +43,7 @@
 
 <br>
 
-# 1. 프로젝트 Clone
+## 1. 프로젝트 Clone
 
 [리포지토리 clone하기](https://velog.io/@kyumin__/Git-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1-1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-clone)
 
