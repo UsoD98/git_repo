@@ -1,11 +1,11 @@
-# 국내여행 동행 사이트 TwoRavel
+# 국내 관광지 소개 웹페이지, 나들이
 
 -----------------
 
 
 <p align="center">
     <img src = "ForREADME/MainPage.png", width="100%">
-    <sup><a href="http://two-ravel.com/" target="_blank">TwoRavel 메인페이지</a></sup>
+    <sup><a href="http:/" target="_blank">Nadeuli 메인페이지</a></sup>
 </p>
 
 -----------------
@@ -20,7 +20,7 @@
 
 ## Contents
 1. [소개](#소개)
-2. [설계의 주안점](#설계의-주안점)
+2. [주요기능](#주요기능)
 3. [Using](#using)
 4. [Main Function](#main-function)
 5. [Schedule](#schedule)
@@ -35,14 +35,12 @@
 -----------------
 
 
-## 설계의 주안점
-- 국내 동행 사이트에 맞춰 다양한 여행 정보와 기능을 제공하기 위해 노력했습니다.
-1. 웹페이지를 이용한 간편한 회원가입 / 로그인 시스템
-2. HTML, CSS, jQuery를 이용한 사용자가 이해하기 쉬운 UI구성
-3. HTML을 이용한 각각의 페이지 프레임 구성
-4. SPRING MVC를 통한 게시판 및 홈페이지 구성
-5. AJAX를 이용한 테이블(화면전환) 처리
-6. 다양한 API 활용(지도, 날씨, 차트, 결제)
+## 주요기능
+- 국내 여행 젱보 사이트에 맞춰 다양한 여행 정보와 기능을 제공하기 위해 노력했습니다.
+1. 지도 이미지를 통한 관광지 탐색 기능
+2. 테마 태그를 이용한 관광지 탐색 기능
+3. 사용자 편의성과 심미성을 갖춘 리뷰 작성 기능
+4. 사용자 전용 캘린더 기능
 
 -----------------
 
@@ -52,8 +50,8 @@
     <img src = "ForREADME/API.png", width="100%">
 </p>
 
-1. **FrontEnd** - HTML5, JS, CSS3, jQuery
-2. **BackEnd** - Java(JDK 1.8), Servlet, Spring, Mybatis
+1. **FrontEnd** - HTML, JS, CSS, jQuery, aJax, leaflet
+2. **BackEnd** - Java(JDK 17), Servlet, Spring, Mybatis
 3. **OS** - Windows, macOS (Amazon Linux 2 - aws)
 4. **Library&API** - Kakaomap, Kakao Postcode, BootStrap(v3.3.7), OJDBC(v6), COS, JavaMail API, JSON(v1.2), JSTL, I'mport, 공공 API, Google Chart, ChatBot, SmartEditor2.0, websocket, spring jdbc
 5. **IDE** - eclipse (EE, 2019-12 v4.14.0), Spring Tool Suite 3 (3.9.12.RELEASE)
